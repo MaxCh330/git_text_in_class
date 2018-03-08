@@ -1,0 +1,6 @@
+C:\git_text_in_class\classwork01\classwork01\bin\Debug\classwork01.exe.config
+C:\git_text_in_class\classwork01\classwork01\bin\Debug\classwork01.exe
+C:\git_text_in_class\classwork01\classwork01\bin\Debug\classwork01.pdb
+C:\git_text_in_class\classwork01\classwork01\obj\Debug\classwork01.csprojResolveAssemblyReference.cache
+C:\git_text_in_class\classwork01\classwork01\obj\Debug\classwork01.exe
+C:\git_text_in_class\classwork01\classwork01\obj\Debug\classwork01.pdb
